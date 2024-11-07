@@ -1,0 +1,15 @@
+We are going to setup a flask app
+projecte name: caretest
+
+caretest structure
+.
+|-app
+| |-login
+| |-static
+| |-templates
+| |-__init__.py
+| |-routes.py
+|-config.py
+|run.py
+
+pls provide code for all necessry codes including Blueprint factory

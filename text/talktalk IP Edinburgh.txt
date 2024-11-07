@@ -1,0 +1,21 @@
+IP Details For: 92.22.3.82
+
+Decimal:1544946514
+
+Hostname:host-92-22-3-82.as13285.net
+
+ASN:13285
+
+ISP:TalkTalk Communications Limited
+
+Services:None detected
+
+Country:United Kingdom of Great Britain and Northern Ireland
+
+State/Region:Scotland
+
+City:Edinburgh
+
+Latitude:55.9521 (55° 57′ 7.42″ N)
+
+Longitude:-3.1965 (3° 11′ 47.33″ W

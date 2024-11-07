@@ -1,0 +1,23 @@
+my ip address
+92.22.3.82
+
+Connection name
+second-440823:europe-west2:second 
+Private IP connectivity 
+Disabled
+Public IP connectivity 
+Enabled
+Public IP address
+34.105.210.209 
+Security
+Google Cloud services authorization 
+Disabled
+App Engine authorization 
+Enabled
+SSL / TLS encryption
+Allow only SSL connections 
+Disabled
+Require trusted client certificates 
+Disabled
+Server certificate
+Expires Oct 22, 2034, 9:52:49 AM
