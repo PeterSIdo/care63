@@ -1,0 +1,11 @@
+{
+    "pgsql.connections": [
+
+        {
+            "server": "{{care6}}",
+            "database": "{{34.98.97.10}}",
+            "user": "{{postgres}}",
+            "password": "{{jelszo}}"
+        }
+    ]
+}
