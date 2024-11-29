@@ -74,6 +74,6 @@ def main(table_name, csv_file):
 
 if __name__ == "__main__":
     # You can change these values to create and insert data into different tables
-    table_name = 'resident_list'
-    csv_file = 'C:/Users/Peter/Care6/text/csv/resident_list.csv'
+    table_name = 'staff_list'
+    csv_file = 'C:/Users/Peter/Care6/text/csv/staff_list.csv'
     main(table_name, csv_file)
